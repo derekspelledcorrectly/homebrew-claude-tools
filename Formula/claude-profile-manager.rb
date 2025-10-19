@@ -1,9 +1,9 @@
 class ClaudeProfileManager < Formula
   desc "Authentication profile management system for Claude Code CLI"
   homepage "https://github.com/derekspelledcorrectly/claude-profile-manager"
-  url "https://github.com/derekspelledcorrectly/claude-profile-manager/archive/refs/tags/v1.2.0.tar.gz"
-  version "1.2.0"
-  sha256 "e2f7a4b081fb1c844bb75fdeb96e0802d6d6cc19262eeed2bb9410d3472d5924"
+  url "https://github.com/derekspelledcorrectly/claude-profile-manager/archive/refs/tags/v1.2.1.tar.gz"
+  version "1.2.1"
+  sha256 "aed29e19139bf177bdeafc9de399836e8b3e54543806d3f93a6386dab1d07e71"
   license "MIT"
 
   depends_on :macos
